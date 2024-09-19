@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b7de4e32cfcb8574e8938f62ea46cb4a
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 8404be70184654265930450def6a9037, type: 3}
+  generateWrapperCode: 1
+  wrapperCodePath: Assets/Basic2DProject.cs
+  wrapperClassName: 
+  wrapperCodeNamespace: 
