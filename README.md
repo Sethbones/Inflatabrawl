@@ -1,6 +1,6 @@
 Inflatabrawl
 =====
-
+![InflatabrawlLogo](https://raw.githubusercontent.com/Sethbones/Inflatabrawl/refs/heads/main/Assets/Title.png)
 ## Description
 Made with Unity 2021
 Source Code for my university submission for the unity portion: Inflatabrawl
@@ -8,7 +8,7 @@ a multiplayer casual party game in the vein of games like: duck game, metal slug
 in which 2+ players are tasked with picking up a weapon from a wide variety of wack weapons, and then proceed to shoot each other.
 
 ## Screenshots
-![Wizard's Poem Logo](https://raw.githubusercontent.com/Sethbones/Wizards-Poem/master/res/ast/itch%20card%20final.png)
+![InflatabrawFootage](https://youtu.be/rvAxgvp96pog)
 ## Requirements
 [Unity Hub](https://unity.com/download) (unity will automatically find the needed version for the project)
 ### Setup
